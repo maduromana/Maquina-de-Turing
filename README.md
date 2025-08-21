@@ -47,6 +47,6 @@ No PDF `Maquina_de_turing___Teoria_da_computação.pdf`, você encontra:
 
 ---
 
-## Licença (opcional)
+## Licença 
 
 Este projeto foi desenvolvido para fins acadêmicos.
